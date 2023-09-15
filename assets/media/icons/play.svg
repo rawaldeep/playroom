@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.07 183.07">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10.94px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="input_per_pagina" data-name="input per pagina">
+      <g class="cls-1">
+        <g>
+          <circle class="cls-2" cx="91.53" cy="91.53" r="86.07" transform="translate(-0.12 182.95) rotate(-89.93)"/>
+          <path class="cls-3" d="M129.66,83.82,78,54a9,9,0,0,0-13.53,7.81v59.71A9,9,0,0,0,78,129.3l51.71-29.85a9,9,0,0,0,0-15.63"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.26 35.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="hamburgermenu">
+      <path class="cls-1" d="M19,13.59a5.92,5.92,0,0,1-5.83,6,5.92,5.92,0,0,1-5.83-6,5.92,5.92,0,0,1,5.83-6A5.92,5.92,0,0,1,19,13.59Zm6.55-.21c0,7.48-8.32,17.37-11.32,20.69a1.42,1.42,0,0,1-2.12,0C9.07,30.77.74,20.9.75,13.38A12.51,12.51,0,0,1,13.13.75,12.51,12.51,0,0,1,25.51,13.38Z"/>
+    </g>
+  </g>
+</svg>
